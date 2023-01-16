@@ -21,7 +21,7 @@ O curso conta com 6 modulos, cada modulo contém certo números de aulas e ativi
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
 
-[HTML](https://www.w3schools.com/html/) - Usado para a marcação e estruturação do site. 
+[HTML](https://www.w3schools.com/html/) - Usado para a marcação e estruturação do site.
 
 [CSS](https://www.w3schools.com/css/) - Para a estilização do site.
 
@@ -29,7 +29,7 @@ Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo
 
 Você pode fazer o download do projeto clicando na opção Code e em seguida selecionando Download Zip.
 
-Ou acessar este link: 
+Ou acessar este link:
 
 ## Licença
 
