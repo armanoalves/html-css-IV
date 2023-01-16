@@ -17,6 +17,12 @@ O curso conta com 6 modulos, cada modulo contém certo números de aulas e ativi
 
 * Como limpar o float, com a propriedade clear do CSS;
 
+* A utilizar fontes externas nas nossas páginas;
+
+* Como incorporar um mapa à nossa página;
+
+* Como incorporar um vídeo à nossa página;
+
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
