@@ -1,6 +1,5 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background: #f5b62f48;
 }
 
 header {
@@ -38,8 +37,7 @@ nav a:hover {
 } 
 
 main {
-    width: 940px;
-    margin: 0 auto;
+    background: linear-gradient(white 0, #f5b62f48 25%, orange 50%, white 75%);
 }
 
 .banner {
@@ -51,6 +49,12 @@ main {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+}
+
+.principal {
+    padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .principal p {
@@ -75,8 +79,14 @@ main {
     padding: 3em 0;
 }
 
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
 .mapa p {
     margin: 0 0 2em;
+    text-align: center;
 }
 
 .benficios {
