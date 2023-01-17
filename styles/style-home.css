@@ -1,10 +1,9 @@
 body {
-    background: #f5b62f48;
     font-family: 'Roboto', sans-serif;
+    background: #f5b62f48;
 }
 
 header {
-    background: #f5b62f48;
     padding: 20px 0;
 }
 
@@ -80,8 +79,31 @@ main {
     margin: 0 0 2em;
 }
 
+.benficios {
+    padding: 3em 0;
+}
+
+.conteudo-beneficios { 
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
 .imagem-beneficios {
     width: 60%;
+}
+
+.itens {
+    line-height: 3em;
+}
+
+.itens:nth-child(2n) {
+    font-weight: bold;
 }
 
 .video {
