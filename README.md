@@ -5,7 +5,7 @@
 Projeto realizado a partir de um curso da Alura: [Curso de HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
 , ministrado pelo instrutor: [Pedro Marins](https://cursos.alura.com.br/user/opedromarins), que visa passar o básico de configuração de uma página Web.
 
-![Imgur](https://i.imgur.com/HnQNnsG.png)
+![Imgur](https://i.imgur.com/bzVdRd9.png)
 
 ## Metodologia de Desenvolvimento
 
