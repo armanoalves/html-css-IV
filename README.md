@@ -39,6 +39,12 @@ O curso conta com 6 modulos, cada modulo contém certo números de aulas e ativi
 
 * Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow;
 
+* Design responsivo: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse:
+
+  * Meta tag de Viewport;
+
+  * Media Queries.
+
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
