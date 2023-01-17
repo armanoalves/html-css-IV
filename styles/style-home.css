@@ -37,7 +37,7 @@ nav a:hover {
 } 
 
 main {
-    background: linear-gradient(white 0, #f5b62f48 25%, orange 50%, white 75%);
+    background: linear-gradient(white , #f5b62f48 , orange , white);
 }
 
 .banner {
@@ -106,6 +106,10 @@ main {
 
 .imagem-beneficios {
     width: 60%;
+}
+
+.itens:before {
+    content: "🥩";
 }
 
 .itens {
