@@ -133,6 +133,12 @@ main {
     margin: 1em auto;
 }
 
+@media screen and (max-width: 480px) {
+    body {
+        background: red;
+    }
+}
+
 footer {
     text-align: center;
     background: url(../images/bg.jpg);
