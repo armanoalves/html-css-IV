@@ -31,6 +31,14 @@ O curso conta com 6 modulos, cada modulo contém certo números de aulas e ativi
 
 * Como fazer contas com CSS, com a propriedade calc;
 
+* Como manipular a opacidade dos elementos, com a propriedade CSS opacity;
+
+* Como manipular a opacidade das cores;
+
+* Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow;
+
+* Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow;
+
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
